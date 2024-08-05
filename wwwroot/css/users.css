@@ -1,0 +1,15 @@
+.nk-menu-toggle:after{
+    content: ">";
+}
+li.nk-menu-item .fa-solid{
+    font-size: large;
+}
+.nk-sidebar.nk-sidebar-active {
+    min-height: 100%;
+}
+.fa-icon-nxt{
+    margin-left: 4px;
+}
+.fa-icon-pre{
+    margin-right: 4px;
+}
